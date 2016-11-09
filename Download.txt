@@ -53,3 +53,17 @@ magnet:?xt=urn:btih:999e073b42331e5b59968f60f32235b3e880ab1c&dn=CodeSchool.com+-
 LINK
 -----------------------
 https://thepiratebay.org/torrent/7827080/CodeSchool.com_-_Real-time_Web_with_Node.js_[2012__ENG]
+
+----------------------------------------------------------------------------------------------------------
+
+TOPIC
+-----------------------
+Webpack Fundamentals
+-----------------------
+MAGNET
+-----------------------
+magnet:?xt=urn:btih:a21df3f9f2bc19c28cca687a17a2035febf8ac85&dn=Webpack+Fundamentals&xl=504354822&dl=504354822&tr=udp://tracker.flashtorrents.org:6969/announce&tr=udp://9.rarbg.me:2710/announce&tr=http://tracker.aletorrenty.pl:2710/announce
+-----------------------
+LINK
+-----------------------
+https://isohunt.to/torrent_details/15622898/Webpack-Fundamentals
