@@ -67,3 +67,17 @@ magnet:?xt=urn:btih:a21df3f9f2bc19c28cca687a17a2035febf8ac85&dn=Webpack+Fundamen
 LINK
 -----------------------
 https://isohunt.to/torrent_details/15622898/Webpack-Fundamentals
+
+----------------------------------------------------------------------------------------------------------
+
+TOPIC
+-----------------------
+Lynda.com - Up and Running with Underscore.js with Trnscrpt
+-----------------------
+MAGNET
+-----------------------
+magnet:?xt=urn:btih:75B6242861C262DDF7EEBC5B84AFD244AFC3D460&dn=Lynda.com%20-%20Up%20and%20Running%20with%20Underscore.js%20with%20Trnscrpt&tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&tr=udp%3A%2F%2Fopentor.org%3A2710&tr=udp%3A%2F%2Ftracker.ccc.de%3A80&tr=udp%3A%2F%2Ftracker.blackunicorn.xyz%3A6969&tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969
+-----------------------
+LINK
+-----------------------
+https://thepiratebay.org/torrent/10781216/Lynda.com_-_Up_and_Running_with_Underscore.js_with_Trnscrpt
