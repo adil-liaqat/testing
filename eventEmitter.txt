@@ -1,0 +1,12 @@
+class Table {
+  on(eventType, cb) {
+  	console.log(this)
+    this["_on" + eventType] = cb;
+  }
+  emit(eventType, s) {
+  console.log(s);
+    if(this["_on" + eventType]) {
+      this["_on" + eventType](s);
+    }
+  }
+}
