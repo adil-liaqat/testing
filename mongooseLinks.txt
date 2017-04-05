@@ -1,0 +1,1 @@
+http://stackoverflow.com/questions/20501526/mongoose-sub-documents-on-separate-files-how-to-embed-them
